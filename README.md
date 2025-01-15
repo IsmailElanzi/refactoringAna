@@ -25,5 +25,15 @@ capturas de pantalla.
 Cambios de la variable n de nombre a num
 Cambio en el metodo MEDAINEGATIVO  a nombre mediaNegativo
 
+He simplificado el código consolidando las funciones de cálculo de media para números positivos y negativos en un único método genérico calcularMedia. Esto reduce la duplicación de código y mejora la legibilidad. 
+También optimicé los bucles utilizando un enfoque más limpio con for-each para iterar sobre los números.
+
+
+
+
+
+
+
+
 
 
